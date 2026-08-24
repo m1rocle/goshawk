@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Goshawk" width="300">
+  <img src="assets/logomain.png" alt="Goshawk" width="300">
 </p>
 
 <h1 align="center">Goshawk</h1>
