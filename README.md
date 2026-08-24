@@ -1,2 +1,2 @@
 # goshawk
-Project Goshawk — Active Directory attack path enumeration and graph analysis tool
+Project Goshawk - Active Directory attack path enumeration and graph analysis tool
